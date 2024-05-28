@@ -1,7 +1,7 @@
 ### Bootcamp : CoderHouse 
-###Curso : JavaScript
-###Comisión : 57710
-###Alumno : César David Vallejos
+### Curso : JavaScript
+### Comisión : 57710
+### Alumno : César David Vallejos
 
 - Se elige para esta entrega el juego de Piedra, Papel o Tijera.
 - Se aplican los conceptos vistos hasta la clase de lógica de programación, estructuras repetitivas y funciones.
